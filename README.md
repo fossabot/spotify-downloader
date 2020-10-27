@@ -1,6 +1,7 @@
 # spotDL
 
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/spotDL/spotify-downloader/blob/master/LICENSE)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FMikhail-Zex%2Fspotify-downloader.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FMikhail-Zex%2Fspotify-downloader?ref=badge_shield)
 
 ⚠ Interested Contributors, please read our [contributing Guidelines](CONTRIBUTING.md) first.
 
@@ -99,3 +100,7 @@ tracks for more speed.
 # A few interesting forks
 1. [aasmpro/spotify/downloader](https://github.com/aasmpro/spotify-downloader)
     - Sets metadata for songs that are already downloaded (v2 only.)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FMikhail-Zex%2Fspotify-downloader.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FMikhail-Zex%2Fspotify-downloader?ref=badge_large)
